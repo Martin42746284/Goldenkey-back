@@ -1,8 +1,6 @@
 {
   "name": "hv-backend",
   "version": "1.0.0",
-  "private": true,
-  "type": "module",
   "scripts": {
     "dev": "ts-node-dev src/index.ts",
     "build": "tsc",
